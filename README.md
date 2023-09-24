@@ -46,7 +46,37 @@ The display menu will be shown after inputting 4 from the main menu.
 
 <img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/a43abb95-a799-4c18-a4d6-1f95fcf29caf">
 
+### To quit the program
+Input 5 from the main menu. The below message will be shown and the program will be terminated.
 
+<img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/1779c095-179d-4d75-9ad3-872759f9caa7">
+
+### Initial an payment account and balance
+After inputting 1 from the balance menu, you will be prompted to enter a line in the format of **payment_account amount** e.g. **cash 2000**
+
+<img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/480de314-9e2b-4bc6-aa96-28bac0e4046b">
+
+
+Afterwards, you will be prompted to enter "y" to continue enter the payment account details or "n" to go back to the balance menu.
+
+<img width="86" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/82191c4e-9123-48be-8c56-56a77512484b">
+
+### Delete an payment account from the system
+After inputting 2 from the balance menu, the account stored in the program will be listed. You are requested to input the index of the payment account that you want to delete. 
+
+<img width="275" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/ed9586a3-52b7-42d3-9246-788f3440353b">
+
+Afterwards, you will be prompted to input either "y" to confirm the deletion of payment account or "n" to cancel the delete operation.
+
+<img width="266" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/8d1753a5-c35c-490e-8bfe-834f47f6aa9c">
+
+### Insert records into the system
+Input 1 from the record menu to record the spendings of today.
+Input 2 from the record menu to record the spendings of specify date. The date will be prompted for user to input. Please input in the format of **YYYY-MM-DD** for example, 2023-09-24 means 24th September, 2023.
+
+Afterwards, users will be prompted to input the record in the format of **category amount payment_account type** for example, **food 100 cash e**.
+
+<img width="433" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/da66468e-8c63-4aeb-af88-c203dfd3d0fd">
 
 
 
