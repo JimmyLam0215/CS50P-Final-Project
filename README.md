@@ -46,11 +46,6 @@ The display menu will be shown after inputting 4 from the main menu.
 
 <img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/a43abb95-a799-4c18-a4d6-1f95fcf29caf">
 
-### To quit the program
-Input 5 from the main menu. The below message will be shown and the program will be terminated.
-
-<img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/1779c095-179d-4d75-9ad3-872759f9caa7">
-
 ### Initial an payment account and balance
 After inputting 1 from the balance menu, you will be prompted to enter a line in the format of **payment_account amount** e.g. **cash 2000**
 
@@ -95,11 +90,39 @@ Input the suitable index to proceed.
 Choose the correct component of the record to adjust. Input the change that you like to adjust. Retype the whole record or delete the record are supported in the program.
 
 ### Display all the payment account and balance
-Input 1 from the display menu. You should see all the payment accounts and balances are list
+Input 1 from the display menu. You should see all the payment accounts and balances are listed
 
 For example:
 
 <img width="202" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/a3b9f7e8-5254-4b1e-8280-902f9d0101dd">
+
+### Display all the records stored in the program
+Input 2 from the display menu, You should see all the records stored in the system are listed. 
+
+For example:
+
+<img width="411" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/e37a8265-89fe-4937-914c-c9cef7b11128">
+
+### Display the summary of the expenses 
+Input 3 from the display menu, you should see all the expenses are summed by the category, sorted and display from highest to lowest 
+
+For example:
+
+<img width="130" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/ddc93602-fa44-4a15-983c-420fedd2028c">
+
+### Display the summary of the incomes
+Input 4 from the display menu, you should see all the incomes are summed by the category, sorted and display from highest to lowest. 
+
+For example:
+
+<img width="113" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/43ac6f63-410c-425d-
+bbbf-cec106b2dd3d">
+
+### To quit the program
+Input 5 from the main menu. The below message will be shown and the program will be terminated.
+
+<img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/1779c095-179d-4d75-9ad3-872759f9caa7">
+
 
 
 
