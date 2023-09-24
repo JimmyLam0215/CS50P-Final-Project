@@ -19,5 +19,6 @@ Input 2 after seeing the prompt shown in above. Afterwards, you will proceed to 
 ### Log-into an account
 If 1 is inputted, enter your username and password. If they are all correct, the below menu will be shown.
 
-<img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/eecea660-12a3-4969-8180-87665303dffe">
+<img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/ac1113f0-5962-49c7-ac5c-6cee053136cf">
+
 
