@@ -74,9 +74,26 @@ Afterwards, you will be prompted to input either "y" to confirm the deletion of 
 Input 1 from the record menu to record the spendings of today.
 Input 2 from the record menu to record the spendings of specify date. The date will be prompted for user to input. Please input in the format of **YYYY-MM-DD** for example, 2023-09-24 means 24th September, 2023.
 
+<img width="384" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/9b7d22f0-b4c3-4dbd-8dbf-d76e290b1d19">
+
+
 Afterwards, users will be prompted to input the record in the format of **category amount payment_account type** for example, **food 100 cash e**.
 
 <img width="433" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/da66468e-8c63-4aeb-af88-c203dfd3d0fd">
+
+### Adjust the details of a record
+After inputting 1 from the adjust menu, you will be prompted to enter a date. Please input in the format of **YYYY-MM-DD** for example, 2023-09-24 means 24th September, 2023.
+
+Afterwards, the record of that particular date will be shown. 
+
+<img width="357" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/d2f128cd-c225-4372-bafd-083a76aa159f">
+
+Input the suitable index to proceed.
+
+<img width="551" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/22a2bd2e-16b5-43a1-8aac-a969164a624d">
+
+Choose the correct component of the record to adjust. Input the change that you like to adjust record. Retype the whole record and delete the record are supported in the program.
+
 
 
 
