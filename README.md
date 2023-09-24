@@ -92,7 +92,13 @@ Input the suitable index to proceed.
 
 <img width="551" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/22a2bd2e-16b5-43a1-8aac-a969164a624d">
 
-Choose the correct component of the record to adjust. Input the change that you like to adjust record. Retype the whole record and delete the record are supported in the program.
+Choose the correct component of the record to adjust. Input the change that you like to adjust. Retype the whole record or delete the record are supported in the program.
+
+### Display all the payment account and balance
+Input 1 from the display menu. You should see all the payment accounts and balances are list
+
+For example:
+<img width="202" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/a3b9f7e8-5254-4b1e-8280-902f9d0101dd">
 
 
 
