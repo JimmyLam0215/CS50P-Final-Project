@@ -115,8 +115,8 @@ Input 4 from the display menu, you should see all the incomes are summed by the 
 
 For example:
 
-<img width="113" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/43ac6f63-410c-425d-
-bbbf-cec106b2dd3d">
+<img width="122" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/1d2ebd1a-0d50-44cb-a024-e9417e37ddb5">
+
 
 ### To quit the program
 Input 5 from the main menu. The below message will be shown and the program will be terminated.
