@@ -72,6 +72,7 @@ Afterwards, you will be prompted to input either "y" to confirm the deletion of 
 
 ### Insert records into the system
 Input 1 from the record menu to record the spendings of today.
+
 Input 2 from the record menu to record the spendings of specify date. The date will be prompted for user to input. Please input in the format of **YYYY-MM-DD** for example, 2023-09-24 means 24th September, 2023.
 
 Afterwards, users will be prompted to input the record in the format of **category amount payment_account type** for example, **food 100 cash e**.
