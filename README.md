@@ -98,6 +98,7 @@ Choose the correct component of the record to adjust. Input the change that you 
 Input 1 from the display menu. You should see all the payment accounts and balances are list
 
 For example:
+
 <img width="202" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/a3b9f7e8-5254-4b1e-8280-902f9d0101dd">
 
 
