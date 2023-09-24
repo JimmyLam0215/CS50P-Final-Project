@@ -127,6 +127,15 @@ Input 5 from the main menu. A similar message will be shown as below and the pro
 
 <img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/1779c095-179d-4d75-9ad3-872759f9caa7">
 
+## Files that will generate by the program
+### 1. spending_tracker.csv
+This file is generated to store and validate the account name and password for different account(s).
+
+### 2. {account_name}_balance.csv
+This file is generated to store all the payment accounts and balance. 
+
+### 3. {account_name}_records.csv
+The file is generated to store all the records that users stored in the system.
 
 
 
