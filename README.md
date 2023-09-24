@@ -119,7 +119,7 @@ For example:
 
 
 ### To quit the program
-Input 5 from the main menu. The below message will be shown and the program will be terminated.
+Input 5 from the main menu. A similar message will be shown as below and the program will be terminated.
 
 <img width="281" alt="image" src="https://github.com/JimmyLam0215/CS50P-Final-Project/assets/117706705/1779c095-179d-4d75-9ad3-872759f9caa7">
 
